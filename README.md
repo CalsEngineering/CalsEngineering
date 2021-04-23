@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CalsEngineering
+- 👀 I’m interested in engineering, lol.
+- 🌱 I’m currently learning C, to program arduinos.
+- 💞️ I’m looking to collaborate on anything and everything, experience is the best way to learn.
+- 📫 How to reach me: send a text to 352-451-7848 and don't make it look like a telemarketer message.
